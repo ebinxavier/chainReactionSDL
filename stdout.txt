@@ -1,0 +1,16 @@
+Initilized SDL successfully
+Window size:500x300
+
+The image  start.png is loaded
+The image  unda//red.png is loaded
+The image  unda//green.png is loaded
+The image  unda//blue.png is loaded
+The image  unda//yellow.png is loaded
+The image  unda//white.png is loaded
+The image  unda//gray.png is loaded
+The image  unda//magenta.png is loaded
+The image  unda//orange.png is loaded
+Resized to 500x300
+The image  dimen.png is loaded
+Resized to 150x150
+Successfully Terminated SDL

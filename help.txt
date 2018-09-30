@@ -1,0 +1,11 @@
+This is a simple game for windows os(xp/vista/7/8).
+
+It is developed under the insperation from the so called "Chain Reaction" in Android Phones
+
+
+
+step1: Extract the compressed file into your computer (Important!)
+
+step2: Double click on game.exe 
+
+_________EnJoY iT____________
